@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212211182118",
+    "project_id": "shuraksha-902ce",
+    "storage_bucket": "shuraksha-902ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212211182118:android:991de24c5af3eb02a314e7",
+        "android_client_info": {
+          "package_name": "com.example.shuraksha1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212211182118-2t13ppbi4u0ek7npf77mkkqsqeaqc6nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkD5c1fW8No8k-FDH4iWKxt7GW80TR8Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212211182118-2t13ppbi4u0ek7npf77mkkqsqeaqc6nu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212211182118-ne6h2ocjjpejo9mdmftbpm69e1ed3fm7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shuraksha1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
